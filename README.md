@@ -4,7 +4,7 @@ This is the landing page of Fylo which I made as a frontend mentor challenge.
 <hr>
 
 ### [Live Website](https://manikmaity.github.io/Fylo-Landing-Page/)
-### [My Linkedin](https://www.linkedin.com/in/manikmaity/)
+### [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
 <hr>
 
 ## Table of contents
@@ -21,9 +21,9 @@ This is the landing page of Fylo which I made as a frontend mentor challenge.
 
 ### The challenges
 There are challenges in this projects -
-  1. Maak ethe website responsive for dektop, tablet and mobile
+  1. Maak ethe website responsive for desktop, tablet and mobile
   2. Make the upper sec of testimonial curved
-  3. Wriring quality code
+  3. Writing quality code
 
 ### Screenshots
 #### Desktop Preview
@@ -43,7 +43,7 @@ https://github.com/ManikMaity/Fylo-Landing-Page/assets/110734724/d29fa549-e53b-4
 ## My process
 
 ### Built with
-- Dektop first
+- Desktop first
 - grid and flexbox
 - position 
 - margin, padding & gap
@@ -52,4 +52,4 @@ https://github.com/ManikMaity/Fylo-Landing-Page/assets/110734724/d29fa549-e53b-4
 - etc
 
 ### What I learned
-  1. Not learned much, But this project helped me to improve my skills
+  1. Not learned much, But this project 
