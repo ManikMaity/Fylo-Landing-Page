@@ -420,8 +420,12 @@ header{
     .testimonial{
         padding-bottom: 80px;
     }
+    .testi-a{
+        width: 150px;
+    }
 
 
+    /* ctc sec  */
     .ctc{
         text-align: center;
     }
@@ -434,6 +438,8 @@ header{
     .ctc-right button{
         width: 100%;
     }
+
+    /* footer sec  */
     .footer-down{
         flex-direction: column;
         gap: 40px;
